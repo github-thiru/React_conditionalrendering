@@ -1,4 +1,4 @@
-import { Student } from "./Data/student"
+import {student} from "../../Data/student";
  const Students=()=>{
 
      console.log(Student)
